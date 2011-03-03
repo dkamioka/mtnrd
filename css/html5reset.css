@@ -1,0 +1,20 @@
+article,
+aside,
+canvas,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+summary {
+	display:block;
+}
+
+nav ul {
+    list-style:none;
+}
+
